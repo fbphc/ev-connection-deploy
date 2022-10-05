@@ -1,0 +1,12 @@
+.navbarContainer{
+    background-color: var(--dark-color);
+}
+.burgerMenuBtn{
+    color: var(--secondary-color);
+}
+.burgerMenuIcon{
+    font-size: 3rem;
+}
+.navlinkMenu{
+    color: var(--secondary-color);
+}

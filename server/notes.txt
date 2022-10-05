@@ -1,0 +1,18 @@
+
+/-----------------/
+gmail: schoolGroupFinal@gmail.com
+psswrd: israwilliamfabio
+
+mongo access database -> access with gmail
+-> mongodb+srv://schoolGroup:israwilliamfabio@cluster0.zb7bj22.mongodb.net/finalProject?retryWrites=true&w=majority
+/-----------------/
+
+/-----------------/
+schoolgroupfinal@gmail.com
+israwilliamfabio
+API_POSITION_STACK=b51d3e2d643f495fdfe1018f9d9a6499
+/-----------------/
+
+
+RickSanchez@gmail.com
+RickSanchez

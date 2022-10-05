@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Bangla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
+
+
+.contactContainer{
+    color: var(--dark-color);
+    font-family: 'Alegreya', serif;
+}
+.titles{
+    font-family: 'Tiro Bangla', serif;
+}
+.submitButton{
+    background-color: var(--dark-color);
+    color: var(--secondary-color);
+}
+.resetButton{
+    background-color: var(--danger-color);
+}

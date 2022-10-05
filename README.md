@@ -1,1 +1,2 @@
-# ev-connection-deploy
+# fullstack_final_project
+DCI - Full Stack Final Project

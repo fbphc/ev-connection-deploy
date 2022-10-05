@@ -1,0 +1,62 @@
+body {
+  background-color: var(--secondary-color);
+}
+.leaflet-container {
+  width: 100%;
+  height: 70vh;
+  margin: 0 auto;
+}
+.leaflet-routing-container {
+  height: 10rem;
+  overflow: scroll;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+:root {
+  --primary-color: #ffa822;
+  --secondary-color: #134e6f;
+  --secondarybla-color: #114360;
+  --danger-color: #ff6150;
+  --info-color: #1ac0c6;
+  --dark-color: #dee0e6;
+}
+
+.primary {
+  color: var(--primary-color);
+}
+.secondary {
+  background-color: var(--secondary-color);
+}
+.danger {
+  color: var(--danger-color);
+}
+.info {
+  background-color: var(--info-color);
+}
+.dark {
+  background-color: var(--dark-color);
+}
+.secondaryText {
+  color: var(--secondary-color);
+}
+.darkText {
+  color: var(--dark-color);
+}
+
+.h1 {
+  font-size: clamp(var(--min), var(--val), var(--max));
+  --min: 1.8em;
+  --val: 4vw;
+  --max: 4em;
+}
+
+@media (min-width: 389px) and (max-width: 600px) {
+  .imageCSS {
+    padding-top: 40%;
+  }
+}
+.arrowCSS:hover {
+  color: var(--danger-color);
+}
+.btn-close{
+  background-color: var(--dark-color);
+}
